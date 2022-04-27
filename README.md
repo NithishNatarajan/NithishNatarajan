@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" height= "400" width="1000" src=https://www.novideasoft.com/hubfs/built-on-salesforce.gif>
+<img align="center" alt="Coding" height= "600" width="1000" src=https://www.plexobit.com/wp-content/uploads/2021/08/crm-main.gif>
 <h1 align="center">Hi 👋, I'm Nithish</h1>
 <h3 align="center">A passionate Salesforce developer from India</h3>
 <img align="right" alt="Coding" width="400" src=https://media.giphy.com/media/Xewa8pwHHvzheQFKDD/giphy.gif>
