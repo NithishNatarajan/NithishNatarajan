@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src=https://media.giphy.com/media/lHaOPzWTwbIz5hr8FS/giphy.gif>
+<img align="center" alt="Coding" height= "400" width="1000" src=https://www.novideasoft.com/hubfs/built-on-salesforce.gif>
 <h1 align="center">Hi 👋, I'm Nithish</h1>
 <h3 align="center">A passionate Salesforce developer from India</h3>
 <img align="right" alt="Coding" width="400" src=https://media.giphy.com/media/Xewa8pwHHvzheQFKDD/giphy.gif>
