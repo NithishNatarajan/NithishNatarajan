@@ -1,6 +1,7 @@
-<img align="center" alt="Coding" height= "600" width="800" src=https://www.plexobit.com/wp-content/uploads/2021/08/crm-main.gif>
+
 <h1 align="center">Hi 👋, I'm Nithish</h1>
 <h3 align="center">A passionate Salesforce developer from India</h3>
+<img align="center" alt="Coding" height= "600" width="800" src=https://www.plexobit.com/wp-content/uploads/2021/08/crm-main.gif>
 <img align="right" alt="Coding" width="300" src=https://media.giphy.com/media/Xewa8pwHHvzheQFKDD/giphy.gif>
 
 - 🌱 I’m currently learning **Salesforce**
