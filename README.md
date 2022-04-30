@@ -22,3 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithishnatarajan&" alt="nithishnatarajan" /></p>
 
+<img align="right" alt="Coding" width="300" src=https://media.giphy.com/media/Xewa8pwHHvzheQFKDD/giphy.gif>
