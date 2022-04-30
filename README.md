@@ -18,8 +18,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithishnatarajan&show_icons=true&locale=en&layout=compact" alt="nithishnatarajan" /></p>
 
+<img align="right" alt="Coding" width="300" src=https://media.giphy.com/media/Xewa8pwHHvzheQFKDD/giphy.gif>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithishnatarajan&show_icons=true&locale=en" alt="nithishnatarajan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithishnatarajan&" alt="nithishnatarajan" /></p>
 
-<img align="right" alt="Coding" width="300" src=https://media.giphy.com/media/Xewa8pwHHvzheQFKDD/giphy.gif>
+<img align="center" alt="Coding" height= "500" width="600" src=https://www.plexobit.com/wp-content/uploads/2021/08/crm-main.gif>
