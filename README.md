@@ -30,5 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithishnatarajan&show_icons=true&locale=en" alt="nithishnatarajan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithishnatarajan&" alt="nithishnatarajan" /></p>
-
+<h3 align="left"><b>........................................................................................................................................................................................................</b></h3>
 <img align="center" alt="Coding" height= "500" width="600" src=https://www.plexobit.com/wp-content/uploads/2021/08/crm-main.gif>
