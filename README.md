@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nithishnatarajan&" alt="nithishnatarajan" /></p><br>
 
-<img align="center" alt="Coding" height= "500" width="800" src=https://www.plexobit.com/wp-content/uploads/2021/08/crm-main.gif>
+<img align="center" alt="Coding" height= "500" width="600" src=https://www.plexobit.com/wp-content/uploads/2021/08/crm-main.gif>
