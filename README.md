@@ -10,7 +10,7 @@
 - 📫 How to reach me **nithishnatarajan03@gmail.com**
 - 💬 Ask me about **Salesforce**
 - ⚡ Fun fact **Surviving in a Coding world**
-<h3 align="left"
+<h3 align="left">
   <b>........................................................................................................................................................................................................</b></h3>
 
 <h3 align="left">Connect with me:</h3>
