@@ -10,7 +10,7 @@
 - 📫 How to reach me **nithishnatarajan03@gmail.com**
 - 💬 Ask me about **Salesforce**
 - ⚡ Fun fact **Surviving in a Coding world**
-- 📄 My Resume **[Click To VIew](https://drive.google.com/file/d/1DC6kvnLvxRV82KJypZdGM5gyRnDmsdUR/view?usp=sharing)**
+- 📄 My Resume(CV) **[Click To View](https://drive.google.com/file/d/1DC6kvnLvxRV82KJypZdGM5gyRnDmsdUR/view?usp=sharing)**
 <h3 align="left">
   <b>........................................................................................................................................................................................................</b></h3>
   
