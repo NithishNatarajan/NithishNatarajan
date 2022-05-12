@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nithish</h1>
+<h1 align="center">Hi , I'm Nithish</h1>
 <img align="center" alt="Coding"  src=https://gifimage.net/wp-content/uploads/2018/11/company-gif.gif>
 <h3 align="center">A passionate Salesforce developer from India</h3>
 <h3 align="left"><b>........................................................................................................................................................................................................</b></h3>
