@@ -34,7 +34,7 @@
 
 <img align="right" alt="Coding" width="300" src=https://media.giphy.com/media/Xewa8pwHHvzheQFKDD/giphy.gif>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithishnatarajan&show_icons=true&locale=en" alt="nithishnatarajan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithishnatarajan&show_icons=true&locale=en&alt=nithishnatarajan&theme=vue" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithishnatarajan&alt=nithishnatarajan&theme=vue"/></p>
 <h3 align="left"><b>........................................................................................................................................................................................................</b></h3>
