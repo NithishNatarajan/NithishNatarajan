@@ -12,6 +12,7 @@
 - ⚡ Fun fact **Surviving in a Coding world**
 - 📄 My Resume-(CV)---> **[Click To View](https://drive.google.com/file/d/1t0VYUXCSxyiuGMCUeNfn6u-wp6m2ON5w/view?usp=sharing)**
 <h3 align="left">
+  <img src=https://img.shields.io/badge/-CSS-1572B6?logo=css3&logocolor=fff>
   <b>........................................................................................................................................................................................................</b></h3>
   
 
